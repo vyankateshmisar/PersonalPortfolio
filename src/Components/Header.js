@@ -61,7 +61,7 @@ function Header() {
             </NavLink>
           </li>
           <li>
-          <a href="https://drive.google.com/file/d/1G9szZqK6tk_-FMraSNfQ1gcp8zLJ06qN/view?usp=sharing" target="_blank" download class="mt-5 md:mt-0 btn bg-greenbg text-green-text text-xs inline-block rounded-3xl px-3 py-1 min-w-fit">Download Resume</a>
+          <a href="https://drive.google.com/file/d/1ZcIdUbtIn0YGzIdVZgKz_q2UvEziGpD-/view?usp=sharing" target="_blank" download class="mt-5 md:mt-0 btn bg-greenbg text-green-text text-xs inline-block rounded-3xl px-3 py-1 min-w-fit">Download Resume</a>
           </li>
         </ul>
         <ul className="flex justify-evenly items-center my-5 md:my-0 md:space-x-5 md:mr-5">

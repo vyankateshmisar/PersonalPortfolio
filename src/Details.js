@@ -28,6 +28,18 @@ import mysql from "./assets/techstack/mysql.png";
 import django from "./assets/techstack/django.png";
 import aws from "./assets/techstack/aws.png";
 
+import intellij from "./assets/techstack/intellij.png";
+
+import express from "./assets/techstack/express.png";
+import springboot from "./assets/techstack/springboot.png";
+
+import flask from "./assets/techstack/flask.png";
+import jenkins from "./assets/techstack/jenkins.png";
+import nginx from "./assets/techstack/nginx.png";
+import nodejs from "./assets/techstack/nodejs.png";
+import postgre from "./assets/techstack/postgre.png";
+import redis from "./assets/techstack/redis.png";
+import insomnia from "./assets/techstack/insomnia.png";
 
 // Project Images
 import projectImage1 from "./assets/projects/project1.jpg";
@@ -62,8 +74,8 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Machine Learning Intern",
-    Company: `University of Florida - Norman Fixel Institute for Neurological Disorders`,
+    Position: "Machine Learning Assistant",
+    Company: `University of Florida - Norman Fixel Institute for Neurological Diseases`,
     Location: "Gainesville, FL",
     Type: "Internship",
     Duration: "April 2023 - Present",
@@ -71,7 +83,7 @@ export const workDetails = [
 
   },
   {
-    Position: "Web Developer Intern",
+    Position: "Web Developer",
     Company: `University of Florida - Center for Undergraduate Research`,
     Location: "Gainesville, FL",
     Type: "Internship",
@@ -129,6 +141,17 @@ export const techStackDetails = {
   github: github,
   figma: figma,
   tf:tf,
+
+  express: express,
+  springboot: springboot,
+  flask: flask,
+  jenkins: jenkins,
+  nginx:nginx,
+  nodejs:nodejs,
+  postgre: postgre,
+  redis:redis, 
+  insomnia: insomnia,
+  intellij:intellij
 };
 
 // Enter your Project Details here
